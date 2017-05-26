@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\02-simple-calculator\bin\Debug\02-simple-calculator.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\02-simple-calculator\bin\Debug\02-simple-calculator.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\02-simple-calculator\bin\Debug\02-simple-calculator.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\02-simple-calculator\obj\Debug\02-simple-calculator.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\02-simple-calculator\obj\Debug\02-simple-calculator.pdb

@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\04-matching-brackets\bin\Debug\04-matching-brackets.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\04-matching-brackets\bin\Debug\04-matching-brackets.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\04-matching-brackets\bin\Debug\04-matching-brackets.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\04-matching-brackets\obj\Debug\04-matching-brackets.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\04-matching-brackets\obj\Debug\04-matching-brackets.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-lab-stacks-and-queues\04-matching-brackets\obj\Debug\04-matching-brackets.pdb
