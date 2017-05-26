@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\09-stack-fibonacci\bin\Debug\09-stack-fibonacci.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\09-stack-fibonacci\bin\Debug\09-stack-fibonacci.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\09-stack-fibonacci\bin\Debug\09-stack-fibonacci.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\09-stack-fibonacci\obj\Debug\09-stack-fibonacci.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\09-stack-fibonacci\obj\Debug\09-stack-fibonacci.pdb

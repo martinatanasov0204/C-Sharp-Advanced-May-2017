@@ -1,0 +1,9 @@
+D:\myStuff\SoftUni\C# Fundamentals\C# Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\bin\Debug\01-reverse-numbers-with-a-stack.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C# Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\bin\Debug\01-reverse-numbers-with-a-stack.exe
+D:\myStuff\SoftUni\C# Fundamentals\C# Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\bin\Debug\01-reverse-numbers-with-a-stack.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C# Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\obj\Debug\01-reverse-numbers-with-a-stack.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C# Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\obj\Debug\01-reverse-numbers-with-a-stack.exe
+D:\myStuff\SoftUni\C# Fundamentals\C# Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\obj\Debug\01-reverse-numbers-with-a-stack.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\bin\Debug\01-reverse-numbers-with-a-stack.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\obj\Debug\01-reverse-numbers-with-a-stack.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\01-reverse-numbers-with-a-stack\obj\Debug\01-reverse-numbers-with-a-stack.pdb

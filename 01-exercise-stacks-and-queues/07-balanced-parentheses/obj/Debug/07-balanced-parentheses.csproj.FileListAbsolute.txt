@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\07-balanced-parentheses\bin\Debug\07-balanced-parentheses.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\07-balanced-parentheses\bin\Debug\07-balanced-parentheses.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\07-balanced-parentheses\bin\Debug\07-balanced-parentheses.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\07-balanced-parentheses\obj\Debug\07-balanced-parentheses.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\01-exercise-stacks-and-queues\07-balanced-parentheses\obj\Debug\07-balanced-parentheses.pdb
