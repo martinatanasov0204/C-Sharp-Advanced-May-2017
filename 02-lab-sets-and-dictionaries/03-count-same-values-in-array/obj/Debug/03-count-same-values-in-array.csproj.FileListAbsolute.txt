@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\03-count-same-values-in-array\bin\Debug\03-count-same-values-in-array.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\03-count-same-values-in-array\bin\Debug\03-count-same-values-in-array.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\03-count-same-values-in-array\bin\Debug\03-count-same-values-in-array.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\03-count-same-values-in-array\obj\Debug\03-count-same-values-in-array.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\03-count-same-values-in-array\obj\Debug\03-count-same-values-in-array.pdb

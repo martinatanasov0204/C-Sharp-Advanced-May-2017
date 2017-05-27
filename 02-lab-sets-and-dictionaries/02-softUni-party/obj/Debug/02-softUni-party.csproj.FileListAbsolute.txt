@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\02-softUni-party\bin\Debug\02-softUni-party.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\02-softUni-party\bin\Debug\02-softUni-party.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\02-softUni-party\bin\Debug\02-softUni-party.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\02-softUni-party\obj\Debug\02-softUni-party.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\02-softUni-party\obj\Debug\02-softUni-party.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\02-softUni-party\obj\Debug\02-softUni-party.pdb

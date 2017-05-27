@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\01-parking-lot\bin\Debug\01-parking-lot.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\01-parking-lot\bin\Debug\01-parking-lot.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\01-parking-lot\bin\Debug\01-parking-lot.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\01-parking-lot\obj\Debug\01-parking-lot.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\01-parking-lot\obj\Debug\01-parking-lot.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\01-parking-lot\obj\Debug\01-parking-lot.pdb

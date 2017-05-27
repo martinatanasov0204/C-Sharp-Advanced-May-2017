@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\04-academy-graduation\bin\Debug\04-academy-graduation.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\04-academy-graduation\bin\Debug\04-academy-graduation.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\04-academy-graduation\bin\Debug\04-academy-graduation.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\04-academy-graduation\obj\Debug\04-academy-graduation.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-lab-sets-and-dictionaries\04-academy-graduation\obj\Debug\04-academy-graduation.pdb
