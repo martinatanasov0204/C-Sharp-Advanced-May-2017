@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\09-user-logs\bin\Debug\09-user-logs.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\09-user-logs\bin\Debug\09-user-logs.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\09-user-logs\bin\Debug\09-user-logs.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\09-user-logs\obj\Debug\09-user-logs.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\09-user-logs\obj\Debug\09-user-logs.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\09-user-logs\obj\Debug\09-user-logs.pdb

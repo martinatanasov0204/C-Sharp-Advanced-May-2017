@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\05-phonebook\bin\Debug\05-phonebook.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\05-phonebook\bin\Debug\05-phonebook.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\05-phonebook\bin\Debug\05-phonebook.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\05-phonebook\obj\Debug\05-phonebook.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\05-phonebook\obj\Debug\05-phonebook.pdb

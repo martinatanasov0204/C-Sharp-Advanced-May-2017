@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\04-count-symbols\bin\Debug\04-count-symbols.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\04-count-symbols\bin\Debug\04-count-symbols.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\04-count-symbols\bin\Debug\04-count-symbols.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\04-count-symbols\obj\Debug\04-count-symbols.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\04-count-symbols\obj\Debug\04-count-symbols.pdb

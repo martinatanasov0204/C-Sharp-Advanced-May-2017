@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\03-periodic-table\bin\Debug\03-periodic-table.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\03-periodic-table\bin\Debug\03-periodic-table.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\03-periodic-table\bin\Debug\03-periodic-table.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\03-periodic-table\obj\Debug\03-periodic-table.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\03-periodic-table\obj\Debug\03-periodic-table.pdb

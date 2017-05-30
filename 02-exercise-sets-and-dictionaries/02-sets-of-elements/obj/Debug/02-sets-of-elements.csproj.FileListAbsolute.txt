@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\02-sets-of-elements\bin\Debug\02-sets-of-elements.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\02-sets-of-elements\bin\Debug\02-sets-of-elements.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\02-sets-of-elements\bin\Debug\02-sets-of-elements.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\02-sets-of-elements\obj\Debug\02-sets-of-elements.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\02-sets-of-elements\obj\Debug\02-sets-of-elements.pdb

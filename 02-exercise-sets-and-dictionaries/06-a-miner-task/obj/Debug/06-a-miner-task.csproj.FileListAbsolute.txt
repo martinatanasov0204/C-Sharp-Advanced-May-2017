@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\06-a-miner-task\bin\Debug\06-a-miner-task.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\06-a-miner-task\bin\Debug\06-a-miner-task.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\06-a-miner-task\bin\Debug\06-a-miner-task.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\06-a-miner-task\obj\Debug\06-a-miner-task.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\06-a-miner-task\obj\Debug\06-a-miner-task.pdb

@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\08-hands-of-cards\bin\Debug\08-hands-of-cards.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\08-hands-of-cards\bin\Debug\08-hands-of-cards.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\08-hands-of-cards\bin\Debug\08-hands-of-cards.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\08-hands-of-cards\obj\Debug\08-hands-of-cards.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\08-hands-of-cards\obj\Debug\08-hands-of-cards.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\02-exercise-sets-and-dictionaries\08-hands-of-cards\obj\Debug\08-hands-of-cards.pdb
