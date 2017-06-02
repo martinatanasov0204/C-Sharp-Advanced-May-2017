@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\02-maximum-sum-of-2x2-submatrix\bin\Debug\02-maximum-sum-of-2x2-submatrix.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\02-maximum-sum-of-2x2-submatrix\bin\Debug\02-maximum-sum-of-2x2-submatrix.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\02-maximum-sum-of-2x2-submatrix\bin\Debug\02-maximum-sum-of-2x2-submatrix.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\02-maximum-sum-of-2x2-submatrix\obj\Debug\02-maximum-sum-of-2x2-submatrix.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\02-maximum-sum-of-2x2-submatrix\obj\Debug\02-maximum-sum-of-2x2-submatrix.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\02-maximum-sum-of-2x2-submatrix\obj\Debug\02-maximum-sum-of-2x2-submatrix.csprojResolveAssemblyReference.cache

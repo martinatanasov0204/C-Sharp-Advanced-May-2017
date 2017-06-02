@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\03-group-numbers\bin\Debug\03-group-numbers.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\03-group-numbers\bin\Debug\03-group-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\03-group-numbers\bin\Debug\03-group-numbers.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\03-group-numbers\obj\Debug\03-group-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\03-group-numbers\obj\Debug\03-group-numbers.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\03-lab-multidimensional-arrays\03-group-numbers\obj\Debug\03-group-numbers.csprojResolveAssemblyReference.cache
