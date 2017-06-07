@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-matrix-of-palindromes", "01-matrix-of-palindromes\01-matrix-of-palindromes.csproj", "{AF70B240-28A4-4F6C-AA79-51FE4B6D442E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-diagonal-difference", "02-diagonal-difference\02-diagonal-difference.csproj", "{C8B483A7-4924-4C7A-8F35-D28D9BA2A541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-2x2-squares-in-matrix", "03-2x2-squares-in-matrix\03-2x2-squares-in-matrix.csproj", "{AFF74419-C547-4993-A97D-EDC03724801C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-maximal-sum", "04-maximal-sum\04-maximal-sum.csproj", "{51559D89-B376-402C-80E6-9182568BF312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-rubiks-matrix", "05-rubiks-matrix\05-rubiks-matrix.csproj", "{95EDE08D-82B7-41B4-8912-2885DEDE6C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF70B240-28A4-4F6C-AA79-51FE4B6D442E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF70B240-28A4-4F6C-AA79-51FE4B6D442E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF70B240-28A4-4F6C-AA79-51FE4B6D442E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF70B240-28A4-4F6C-AA79-51FE4B6D442E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B483A7-4924-4C7A-8F35-D28D9BA2A541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B483A7-4924-4C7A-8F35-D28D9BA2A541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B483A7-4924-4C7A-8F35-D28D9BA2A541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B483A7-4924-4C7A-8F35-D28D9BA2A541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF74419-C547-4993-A97D-EDC03724801C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF74419-C547-4993-A97D-EDC03724801C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF74419-C547-4993-A97D-EDC03724801C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF74419-C547-4993-A97D-EDC03724801C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51559D89-B376-402C-80E6-9182568BF312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51559D89-B376-402C-80E6-9182568BF312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51559D89-B376-402C-80E6-9182568BF312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51559D89-B376-402C-80E6-9182568BF312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EDE08D-82B7-41B4-8912-2885DEDE6C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EDE08D-82B7-41B4-8912-2885DEDE6C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EDE08D-82B7-41B4-8912-2885DEDE6C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EDE08D-82B7-41B4-8912-2885DEDE6C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

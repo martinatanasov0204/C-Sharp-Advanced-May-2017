@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\04-special-words\bin\Debug\04-special-words.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\04-special-words\bin\Debug\04-special-words.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\04-special-words\bin\Debug\04-special-words.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\04-special-words\obj\Debug\04-special-words.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\04-special-words\obj\Debug\04-special-words.pdb

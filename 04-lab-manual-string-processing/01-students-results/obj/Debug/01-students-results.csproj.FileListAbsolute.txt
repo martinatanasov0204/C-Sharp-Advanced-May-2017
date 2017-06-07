@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\01-students-results\bin\Debug\01-students-results.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\01-students-results\bin\Debug\01-students-results.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\01-students-results\bin\Debug\01-students-results.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\01-students-results\obj\Debug\01-students-results.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\01-students-results\obj\Debug\01-students-results.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\01-students-results\obj\Debug\01-students-results.pdb

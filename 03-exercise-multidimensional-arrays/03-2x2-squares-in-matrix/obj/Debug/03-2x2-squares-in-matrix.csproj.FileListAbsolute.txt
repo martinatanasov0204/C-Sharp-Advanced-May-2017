@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\03-2x2-squares-in-matrix\bin\Debug\03-2x2-squares-in-matrix.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\03-2x2-squares-in-matrix\bin\Debug\03-2x2-squares-in-matrix.exe
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\03-2x2-squares-in-matrix\bin\Debug\03-2x2-squares-in-matrix.pdb
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\03-2x2-squares-in-matrix\obj\Debug\03-2x2-squares-in-matrix.exe
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\03-2x2-squares-in-matrix\obj\Debug\03-2x2-squares-in-matrix.pdb

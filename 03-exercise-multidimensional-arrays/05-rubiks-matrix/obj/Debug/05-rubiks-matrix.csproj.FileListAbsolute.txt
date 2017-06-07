@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\05-rubiks-matrix\bin\Debug\05-rubiks-matrix.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\05-rubiks-matrix\bin\Debug\05-rubiks-matrix.exe
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\05-rubiks-matrix\bin\Debug\05-rubiks-matrix.pdb
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\05-rubiks-matrix\obj\Debug\05-rubiks-matrix.exe
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\05-rubiks-matrix\obj\Debug\05-rubiks-matrix.pdb

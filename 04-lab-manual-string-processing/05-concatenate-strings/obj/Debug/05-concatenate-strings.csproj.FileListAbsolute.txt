@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\05-concatenate-strings\bin\Debug\05-concatenate-strings.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\05-concatenate-strings\bin\Debug\05-concatenate-strings.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\05-concatenate-strings\bin\Debug\05-concatenate-strings.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\05-concatenate-strings\obj\Debug\05-concatenate-strings.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-lab-manual-string-processing\05-concatenate-strings\obj\Debug\05-concatenate-strings.pdb

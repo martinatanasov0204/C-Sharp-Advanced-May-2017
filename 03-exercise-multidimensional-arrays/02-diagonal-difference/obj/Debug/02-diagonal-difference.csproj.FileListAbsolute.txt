@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\02-diagonal-difference\bin\Debug\02-diagonal-difference.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\02-diagonal-difference\bin\Debug\02-diagonal-difference.exe
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\02-diagonal-difference\bin\Debug\02-diagonal-difference.pdb
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\02-diagonal-difference\obj\Debug\02-diagonal-difference.exe
+c:\users\martin\documents\visual studio 2015\Projects\03-exercise-multidimensional-arrays\02-diagonal-difference\obj\Debug\02-diagonal-difference.pdb
