@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\03-formatting-numbers\bin\Debug\03-formatting-numbers.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\03-formatting-numbers\bin\Debug\03-formatting-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\03-formatting-numbers\bin\Debug\03-formatting-numbers.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\03-formatting-numbers\obj\Debug\03-formatting-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\03-formatting-numbers\obj\Debug\03-formatting-numbers.pdb

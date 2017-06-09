@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\12-character-multiplier\bin\Debug\12-character-multiplier.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\12-character-multiplier\bin\Debug\12-character-multiplier.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\12-character-multiplier\bin\Debug\12-character-multiplier.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\12-character-multiplier\obj\Debug\12-character-multiplier.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\12-character-multiplier\obj\Debug\12-character-multiplier.pdb

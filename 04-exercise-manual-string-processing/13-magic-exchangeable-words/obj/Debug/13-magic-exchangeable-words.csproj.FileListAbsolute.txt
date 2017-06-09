@@ -1,0 +1,1 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\13-magic-exchangeable-words\bin\Debug\13-magic-exchangeable-words.exe.config

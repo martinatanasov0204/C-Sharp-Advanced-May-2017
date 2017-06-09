@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\09-text-filter\bin\Debug\09-text-filter.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\09-text-filter\bin\Debug\09-text-filter.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\09-text-filter\bin\Debug\09-text-filter.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\09-text-filter\obj\Debug\09-text-filter.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\09-text-filter\obj\Debug\09-text-filter.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\09-text-filter\obj\Debug\09-text-filter.pdb

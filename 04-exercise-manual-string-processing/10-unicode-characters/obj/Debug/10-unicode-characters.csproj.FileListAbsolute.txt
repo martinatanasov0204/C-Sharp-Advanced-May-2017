@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\10-unicode-characters\bin\Debug\10-unicode-characters.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\10-unicode-characters\bin\Debug\10-unicode-characters.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\10-unicode-characters\bin\Debug\10-unicode-characters.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\10-unicode-characters\obj\Debug\10-unicode-characters.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\10-unicode-characters\obj\Debug\10-unicode-characters.pdb

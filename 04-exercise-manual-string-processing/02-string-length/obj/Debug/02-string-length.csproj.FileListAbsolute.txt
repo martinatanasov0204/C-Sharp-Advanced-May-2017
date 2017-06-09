@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\02-string-length\bin\Debug\02-string-length.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\02-string-length\bin\Debug\02-string-length.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\02-string-length\bin\Debug\02-string-length.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\02-string-length\obj\Debug\02-string-length.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\02-string-length\obj\Debug\02-string-length.pdb

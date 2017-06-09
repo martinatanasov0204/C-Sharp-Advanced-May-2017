@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\06-count-substring-occurrences\bin\Debug\06-count-substring-occurrences.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\06-count-substring-occurrences\bin\Debug\06-count-substring-occurrences.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\06-count-substring-occurrences\bin\Debug\06-count-substring-occurrences.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\06-count-substring-occurrences\obj\Debug\06-count-substring-occurrences.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\06-count-substring-occurrences\obj\Debug\06-count-substring-occurrences.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\06-count-substring-occurrences\obj\Debug\06-count-substring-occurrences.pdb

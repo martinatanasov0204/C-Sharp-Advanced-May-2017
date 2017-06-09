@@ -1,0 +1,1 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\04-convert-from-base-10-to-base-N\bin\Debug\04-convert-from-base-10-to-base-N.exe.config

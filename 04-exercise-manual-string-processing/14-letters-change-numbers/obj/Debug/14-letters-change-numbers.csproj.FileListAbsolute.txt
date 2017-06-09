@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\14-letters-change-numbers\bin\Debug\14-letters-change-numbers.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\14-letters-change-numbers\bin\Debug\14-letters-change-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\14-letters-change-numbers\bin\Debug\14-letters-change-numbers.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\14-letters-change-numbers\obj\Debug\14-letters-change-numbers.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\14-letters-change-numbers\obj\Debug\14-letters-change-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\04-exercise-manual-string-processing\14-letters-change-numbers\obj\Debug\14-letters-change-numbers.pdb
