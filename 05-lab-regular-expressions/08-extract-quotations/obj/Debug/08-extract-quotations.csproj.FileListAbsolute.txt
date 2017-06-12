@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\08-extract-quotations\bin\Debug\08-extract-quotations.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\08-extract-quotations\bin\Debug\08-extract-quotations.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\08-extract-quotations\bin\Debug\08-extract-quotations.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\08-extract-quotations\obj\Debug\08-extract-quotations.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\08-extract-quotations\obj\Debug\08-extract-quotations.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\08-extract-quotations\obj\Debug\08-extract-quotations.pdb

@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\05-extract-tags\bin\Debug\05-extract-tags.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\05-extract-tags\bin\Debug\05-extract-tags.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\05-extract-tags\bin\Debug\05-extract-tags.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\05-extract-tags\obj\Debug\05-extract-tags.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-lab-regular-expressions\05-extract-tags\obj\Debug\05-extract-tags.pdb
