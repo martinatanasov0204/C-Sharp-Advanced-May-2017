@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\03-NMS\bin\Debug\03-NMS.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\03-NMS\bin\Debug\03-NMS.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\03-NMS\bin\Debug\03-NMS.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\03-NMS\obj\Debug\03-NMS.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\03-NMS\obj\Debug\03-NMS.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\03-NMS\obj\Debug\03-NMS.pdb

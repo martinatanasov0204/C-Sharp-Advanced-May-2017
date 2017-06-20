@@ -1,0 +1,7 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-functional-programming\01-action-print\bin\Debug\01-action-print.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\01-action-print\bin\Debug\01-action-print.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\01-action-print\bin\Debug\01-action-print.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\01-action-print\bin\Debug\01-action-print.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\01-action-print\obj\Debug\01-action-print.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\01-action-print\obj\Debug\01-action-print.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\01-action-print\obj\Debug\01-action-print.pdb

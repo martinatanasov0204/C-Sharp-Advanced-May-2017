@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\03-count-uppercase-words\bin\Debug\03-count-uppercase-words.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\03-count-uppercase-words\bin\Debug\03-count-uppercase-words.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\03-count-uppercase-words\bin\Debug\03-count-uppercase-words.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\03-count-uppercase-words\obj\Debug\03-count-uppercase-words.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\03-count-uppercase-words\obj\Debug\03-count-uppercase-words.pdb

@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\05-filter-by-age\bin\Debug\05-filter-by-age.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\05-filter-by-age\bin\Debug\05-filter-by-age.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\05-filter-by-age\bin\Debug\05-filter-by-age.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\05-filter-by-age\obj\Debug\05-filter-by-age.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\05-filter-by-age\obj\Debug\05-filter-by-age.pdb

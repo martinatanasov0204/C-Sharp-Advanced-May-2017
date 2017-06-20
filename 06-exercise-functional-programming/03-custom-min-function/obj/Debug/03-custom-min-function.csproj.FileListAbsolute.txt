@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\03-custom-min-function\bin\Debug\03-custom-min-function.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\03-custom-min-function\bin\Debug\03-custom-min-function.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\03-custom-min-function\bin\Debug\03-custom-min-function.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\03-custom-min-function\obj\Debug\03-custom-min-function.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\03-custom-min-function\obj\Debug\03-custom-min-function.pdb

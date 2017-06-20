@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\05-applied-arithmetics\bin\Debug\05-applied-arithmetics.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\05-applied-arithmetics\bin\Debug\05-applied-arithmetics.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\05-applied-arithmetics\bin\Debug\05-applied-arithmetics.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\05-applied-arithmetics\obj\Debug\05-applied-arithmetics.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-exercise-functional-programming\05-applied-arithmetics\obj\Debug\05-applied-arithmetics.pdb

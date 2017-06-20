@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\02-sum-numbers\bin\Debug\02-sum-numbers.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\02-sum-numbers\bin\Debug\02-sum-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\02-sum-numbers\bin\Debug\02-sum-numbers.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\02-sum-numbers\obj\Debug\02-sum-numbers.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\06-lab-functional-programming\02-sum-numbers\obj\Debug\02-sum-numbers.pdb

@@ -1,0 +1,6 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-exercises-regular-expressions\04-replaceATag\bin\Debug\04-replaceATag.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-exercises-regular-expressions\04-replaceATag\bin\Debug\04-replaceATag.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-exercises-regular-expressions\04-replaceATag\bin\Debug\04-replaceATag.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-exercises-regular-expressions\04-replaceATag\obj\Debug\04-replaceATag.csprojResolveAssemblyReference.cache
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-exercises-regular-expressions\04-replaceATag\obj\Debug\04-replaceATag.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\05-exercises-regular-expressions\04-replaceATag\obj\Debug\04-replaceATag.pdb

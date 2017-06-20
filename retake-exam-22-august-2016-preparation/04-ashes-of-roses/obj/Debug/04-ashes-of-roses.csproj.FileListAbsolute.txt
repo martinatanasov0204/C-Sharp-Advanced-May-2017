@@ -1,0 +1,5 @@
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\04-ashes-of-roses\bin\Debug\04-ashes-of-roses.exe.config
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\04-ashes-of-roses\bin\Debug\04-ashes-of-roses.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\04-ashes-of-roses\bin\Debug\04-ashes-of-roses.pdb
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\04-ashes-of-roses\obj\Debug\04-ashes-of-roses.exe
+D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\04-ashes-of-roses\obj\Debug\04-ashes-of-roses.pdb
