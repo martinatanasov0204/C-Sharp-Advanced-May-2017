@@ -1,63 +1,45 @@
-﻿namespace _02_natures_prophet
+﻿
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+
+namespace _15.LINQ_Exercise
 {
-	using System;
-	using System.Linq;
-	using System.Collections.Generic;
-
-	class Startup
+	class Program
 	{
-		static void Main()
+		static void Main(string[] args)
 		{
-			List<int> param = Console.ReadLine()
-				.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-				.Select(int.Parse)
-				.ToList();
-
-			int n = param[0];
-			int m = param[1];
-
-			int[][] matrix = new int[n][];
-
-			for (int i = 0; i < n; i++)
+			var stockSize = int.Parse(Console.ReadLine());
+			var warehouse = new Dictionary<string, Dictionary<string, int>>();
+			for (int i = 0; i < stockSize; i++)
 			{
-				matrix[i] = new int[m];
-				for (int j = 0; j < m; j++)
+				var input = Console.ReadLine();
+				var data = Regex.Matches(input, @"^\|(.*?)\s-\s(.*?)\s-\s(.*?)\|$");
+				if (data.Count > 0)
 				{
-					matrix[i][j] = 0;
-				}
-			}
+					var company = data[0].Groups[1].ToString();
+					var amount = int.Parse(data[0].Groups[2].ToString());
+					var product = data[0].Groups[3].ToString();
 
-			string line = Console.ReadLine();
-
-			while (line != "Bloom Bloom Plow")
-			{
-				List<int> positions = line
-					.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-					.Select(int.Parse)
-					.ToList();
-
-				int row = positions[0];
-				int col = positions[1];
-
-				for (int i = 0; i < n; i++)
-				{
-					matrix[row][i]++;
-				}
-
-				for (int i = 0; i < m; i++)
-				{
-					if (i != row)
+					if (!warehouse.ContainsKey(company))
 					{
-						matrix[i][col]++;
+						warehouse.Add(company, new Dictionary<string, int>());
 					}
+
+					if (!warehouse[company].ContainsKey(product))
+					{
+						warehouse[company].Add(product, 0);
+					}
+
+					warehouse[company][product] += amount;
 				}
-
-				line = Console.ReadLine();
 			}
-
-			for (int i = 0; i < n; i++)
+			foreach (var company in warehouse.OrderBy(x => x.Key))
 			{
-				Console.WriteLine(string.Join(" ", matrix[i]));
+				Console.WriteLine($"{company.Key}: {string.Join(", ", company.Value.Select(x => $"{x.Key}-{x.Value}"))}");
 			}
 		}
 	}

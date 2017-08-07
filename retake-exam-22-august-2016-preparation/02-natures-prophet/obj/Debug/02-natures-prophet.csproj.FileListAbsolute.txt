@@ -4,3 +4,6 @@ D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-prepar
 D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\02-natures-prophet\obj\Debug\02-natures-prophet.csprojResolveAssemblyReference.cache
 D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\02-natures-prophet\obj\Debug\02-natures-prophet.exe
 D:\myStuff\SoftUni\C# Fundamentals\C#-Advanced\retake-exam-22-august-2016-preparation\02-natures-prophet\obj\Debug\02-natures-prophet.pdb
+D:\myStuff\SoftUni\GitHub\C-Sharp-Advanced-May-2017\retake-exam-22-august-2016-preparation\02-natures-prophet\bin\Debug\02-natures-prophet.exe.config
+D:\myStuff\SoftUni\GitHub\C-Sharp-Advanced-May-2017\retake-exam-22-august-2016-preparation\02-natures-prophet\obj\Debug\02-natures-prophet.exe
+D:\myStuff\SoftUni\GitHub\C-Sharp-Advanced-May-2017\retake-exam-22-august-2016-preparation\02-natures-prophet\obj\Debug\02-natures-prophet.pdb
